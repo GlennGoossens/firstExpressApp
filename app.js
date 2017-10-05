@@ -15,6 +15,7 @@ app.get("/dog",function(req,res){
   res.send("MEOW!!")
 });
 
+//default onderaan
 app.get("*",function(req,res){
   res.send("404 error not found");
 });
