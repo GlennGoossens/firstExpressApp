@@ -1,0 +1,23 @@
+{
+  "name": "firstexpressapp",
+  "version": "1.0.0",
+  "description": "first express app",
+  "main": "app.js",
+  "dependencies": {
+    "cat-me": "^1.0.3",
+    "express": "^4.16.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Glenn Goossens",
+  "license": "ISC"
+}
